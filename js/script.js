@@ -1,1 +1,1 @@
-angelo
+'use strict';
